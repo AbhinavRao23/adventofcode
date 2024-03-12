@@ -1,3 +1,3 @@
-# aoc2020
+# Advent of Code
 
-advent of code 2020
+Trying to catch up with advent of code, whenever i get the time.
